@@ -1,2 +1,2 @@
 # Gregy.IO
-A midpack by mutliple dedicated GTCEU Players
+A modpack by mutliple dedicated GTCEU Players
