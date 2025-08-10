@@ -1,0 +1,24 @@
+[18:14:12.015][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production client modded with platform Forge
+[18:14:12.074][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
+[18:14:12.228][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
+[18:14:12.232][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[18:14:12.238][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin mekanism:crt_plugin
+[18:14:15.046][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
+[18:14:15.051][INFO][CraftTweaker]: - 'avaritia' at version '1.0.7'
+[18:14:15.052][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.57'
+[18:14:15.052][INFO][CraftTweaker]: - 'extendedcrafting' at version '6.0.9'
+[18:14:15.052][INFO][CraftTweaker]: - 'mekanism' at version '10.4.16'
+[18:14:15.052][INFO][CraftTweaker]: - 'mysticalagriculture' at version '7.0.22'
+[18:14:15.052][INFO][CraftTweaker]: - 'projecte' at version '1.0.1'
+[18:14:31.208][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'mekanismcontent'
+[18:14:31.814][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[18:14:32.874][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, net, crafttweaker, expansions]
+[18:14:33.049][INFO][CraftTweaker-ZenCode]: Execution for loader 'mekanismcontent' completed successfully
+[18:14:33.049][INFO][Mekanism]: Registering 0 custom gases.
+[18:14:33.060][INFO][Mekanism]: Registering 0 custom infuse types.
+[18:14:33.085][INFO][Mekanism]: Registering 0 custom pigments.
+[18:14:33.104][INFO][Mekanism]: Registering 0 custom slurries.
+[18:14:36.796][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'initialize'
+[18:14:36.882][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[18:14:36.886][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[18:14:36.925][INFO][CraftTweaker-ZenCode]: Execution for loader 'initialize' completed successfully

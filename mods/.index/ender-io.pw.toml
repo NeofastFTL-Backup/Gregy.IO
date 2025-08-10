@@ -1,0 +1,16 @@
+filename = 'EnderIO-1.20.1-6.2.12-beta-all.jar'
+name = 'Ender IO'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '2f0d66a0cfab987f8dd95cb6d5debf449a490ee5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6761673
+project-id = 64578

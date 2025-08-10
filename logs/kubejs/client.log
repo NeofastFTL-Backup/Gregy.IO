@@ -1,0 +1,20 @@
+[18:14:17] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[18:14:17] [INIT] Loaded plugins:
+[18:14:17] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[18:14:17] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[18:14:17] [INIT] - net.zhaiji.kubejscurios.kubejs.KubeJSCuriosPlugin
+[18:14:17] [INIT] - dev.latvian.kubejs.mekanism.MekanismKubeJSPlugin
+[18:14:17] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[18:14:17] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[18:14:17] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[18:14:17] [INIT] - com.bobvarioa.kubejsbotanypots.KubeJSBotanyPotsPlugin
+[18:14:17] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[18:14:17] [INIT] - com.almostreliable.ponderjs.KubePlugin
+[18:14:17] [INIT] - dev.latvian.mods.kubejs.thermal.KubeJSThermalPlugin
+[18:14:17] [INIT] - igentuman.nc.compat.kubejs.NuclearCraftKubeJSPlugin
+[18:14:17] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
+[18:14:17] [INIT] - dev.sorin.kubejsextendedcrafting.KubejsExtendedCraftingPlugin
+[18:14:17] [INFO] example.js#5: Hello, World! (Loaded client scripts)
+[18:14:17] [INFO] Loaded script client_scripts:example.js in 0.002 s
+[18:14:17] [INFO] Loaded 1/1 KubeJS client scripts in 0.073 s with 0 errors and 0 warnings
+[18:14:38] [INFO] Client resource reload complete!

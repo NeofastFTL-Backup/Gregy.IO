@@ -1,0 +1,21 @@
+
+#General settings
+[general]
+
+	[general."Skullfire Sword"]
+		#DropChange
+		#Range: 0 ~ 100
+		dropChange = 100
+
+	[general."Infinity Armor"]
+		#NightVision
+		nightVision = true
+		#ClearBadEffect
+		clearBadEffect = true
+		#ClearFire
+		clearFire = true
+		#HighJump
+		highJump = true
+		#Speed
+		speed = true
+

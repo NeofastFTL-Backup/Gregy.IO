@@ -1,0 +1,16 @@
+filename = 'steamadditions-1.5.jar'
+name = 'Gregtech Steam Additions'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2473784109247c625dab4c857737bdf0b9bedf4a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6770214
+project-id = 1008510
